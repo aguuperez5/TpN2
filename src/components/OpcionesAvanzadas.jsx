@@ -1,4 +1,5 @@
 import React from 'react';
+import '../App.css';
 
 function OpcionesAvanzado({
   longitud, setLongitud, minúsculas, setMinúsculas, mayúsculas, setMayúsculas, 

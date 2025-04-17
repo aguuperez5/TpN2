@@ -2,6 +2,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  display: center;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 body {
   font-family: 'Arial', sans-serif;
@@ -81,4 +85,10 @@ button:hover {
   padding: 20px;
   background-color: #2f2f2f;
   border-radius: 8px;
+}
+.opciones-avanzadas{
+  align-items: center;
+  margin-bottom: 20px;
+  padding: auto;
+  gap: 20px;
 }
